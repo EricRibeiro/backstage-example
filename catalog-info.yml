@@ -8,3 +8,5 @@ metadata:
     circleci.com/project-slug: github/EricRibeiro/backstage-example
 spec:
   type: service
+  owner: guests
+  lifecycle: experimental
