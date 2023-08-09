@@ -8,5 +8,5 @@ metadata:
     circleci.com/project-slug: github/EricRibeiro/backstage-example
 spec:
   type: website
-  owner: john@example.com
+  owner: guests
   lifecycle: experimental
