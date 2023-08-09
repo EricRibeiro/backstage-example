@@ -7,6 +7,4 @@ metadata:
     github.com/project-slug: EricRibeiro/backstage-example
     circleci.com/project-slug: github/EricRibeiro/backstage-example
 spec:
-  type: website
-  owner: guests
-  lifecycle: experimental
+  type: service
