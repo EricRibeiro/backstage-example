@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-example
+  description: An example of a Backstage application.
+  annotations:
+    github.com/project-slug: EricRibeiro/backstage-example
+    circleci.com/project-slug: github/EricRibeiro/backstage-example
+spec:
+  type: website
+  owner: eric.ribeiro@circleci.com
+  lifecycle: experimental
